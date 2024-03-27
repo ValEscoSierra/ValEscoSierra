@@ -46,7 +46,7 @@
 ![My Skills](https://skillicons.dev/icons?i=docker)
 
 ### Other Tools
-![My Skills](https://skillicons.dev/icons?i=git,firebase,figma,androidstudio,flutter,assembly)
+![My Skills](https://skillicons.dev/icons?i=git,firebase,figma,androidstudio,flutter,ai,notion,)
 
 
 ## My Stats
