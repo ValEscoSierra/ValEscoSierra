@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentina</h1>
-<h3 align="center">A Systems Engineering from Colombia </h3>
+<h3 align="center">A Systems Engineering student from Colombia </h3>
 
 <div align="center">
   <img  src="https://octodex.github.com/images/femalecodertocat.png"
