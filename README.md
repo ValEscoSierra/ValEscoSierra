@@ -28,7 +28,7 @@
 ## Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,html,css,js,typescript,r&perline=15" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,kotlin,dart,html,css,js,typescript,r&perline=15" />
   </a>
 </p>
 
