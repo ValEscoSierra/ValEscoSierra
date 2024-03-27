@@ -1,6 +1,4 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://octodex.github.com/images/femalecodertocat.png">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -12,8 +10,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://octodex.github.com/images/femalecodertocat.png"
+       alt="avatar" width="200" height="200" /></a>
 </div>
 
 
