@@ -37,16 +37,16 @@
 ![My Skills](https://skillicons.dev/icons?i=angular)
 
 ### Backend Frameworks
-![My Skills](https://skillicons.dev/icons?i=nodejs,spring,express)
+![My Skills](https://skillicons.dev/icons?i=nodejs,spring)
 
 ### Databases
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)
 
 ### DevOps
 ![My Skills](https://skillicons.dev/icons?i=docker)
 
 ### Other Tools
-![My Skills](https://skillicons.dev/icons?i=git,firebase,androidstudio,flutter,scikitlearn,figma,arduino)
+![My Skills](https://skillicons.dev/icons?i=git,firebase,figma,androidstudio,flutter,assembly)
 
 
 ## My Stats
