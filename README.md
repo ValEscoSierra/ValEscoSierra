@@ -20,7 +20,7 @@
 
 ##
 
-- 🌱 I’m currently learning **Node.js, JavaScript and Swift**
+- 🌱 I’m currently learning **Node.js, JavaScript, Docker and Swift**
 
 - 🌟 In my free times I love to play music, learn new languages and watch the sky and stars.
 
