@@ -40,7 +40,7 @@
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)
 
 ### Cloud
-![My Skills](https://skillicons.dev/icons?i=AWS,GCP)
+![My Skills](https://skillicons.dev/icons?i=aws,gcp)
 
 ### DevOps
 ![My Skills](https://skillicons.dev/icons?i=docker)
