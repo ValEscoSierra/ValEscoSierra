@@ -40,7 +40,8 @@
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)
 
 ### Cloud
-![My Skills](https://skillicons.dev/icons?i=gcp,aws)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40" />
 
 ### DevOps
 ![My Skills](https://skillicons.dev/icons?i=docker)
