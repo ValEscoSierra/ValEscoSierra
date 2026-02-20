@@ -34,7 +34,7 @@
 ![My Skills](https://skillicons.dev/icons?i=angular)
 
 ### Backend Frameworks
-![My Skills](https://skillicons.dev/icons?i=nodejs,spring)
+![My Skills](https://skillicons.dev/icons?i=nodejs,aws,spring)
 
 ### Databases
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)
