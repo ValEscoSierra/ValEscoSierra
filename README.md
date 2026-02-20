@@ -40,6 +40,9 @@
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)
 
 ### Cloud
+### Frontend Frameworks
+![My Skills](https://skillicons.dev/icons?i=angular)
+
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40" />
 
