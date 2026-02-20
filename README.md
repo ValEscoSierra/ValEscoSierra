@@ -10,17 +10,14 @@
   <a href="https://www.linkedin.com/in/sara-valentina-sierra-escobar-5342611b9/ target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
-  <a href="mailto:saravalentinasierraescobar@gmail.com">
+  <a href="mailto:svalsierra10@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
-  </a>
-  <a href="mailto:sarissierra2003@hotmail.com">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
 ##
 
-- 🌱 I’m currently learning **Node.js, JavaScript, Docker and Swift**
+- 🌱 I’m currently learning **Google Cloud Platform, Swift, PySpark**
 
 - 🌟 In my free times I love to play music, learn new languages and watch the sky and stars.
 
@@ -41,6 +38,9 @@
 
 ### Databases
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)
+
+### Cloud
+![My Skills](https://skillicons.dev/icons?i=AWS,GCP)
 
 ### DevOps
 ![My Skills](https://skillicons.dev/icons?i=docker)
